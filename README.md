@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 This project provides an in-depth analysis of coffee sales data using **Microsoft Excel**. It covers key sales metrics, trends, and category-wise performance to derive insights into revenue, units sold, and customer preferences.
+![Overview](https://github.com/Karthik131223/Excel-projects/blob/main/Overview.png)
 
 ## 📊 Key Features & Analysis
 - **Data Cleaning & Formatting**: Removed inconsistencies, handled missing values, and standardized data for accurate reporting.
